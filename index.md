@@ -1,6 +1,6 @@
 ---
-title: Projects
+title: About
 layout: home
 ---
 
-Portfolio.
+About.
