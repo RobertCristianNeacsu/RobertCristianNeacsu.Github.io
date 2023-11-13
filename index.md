@@ -17,14 +17,23 @@ I am studying in the Computer Science program.
 I have learned a number of things in this program, so here's some of them.
 
 Coding Languages:
+  
   -C#
+  
   -Java
+ 
   -JavaScript
+ 
   -Kotlin and Compose (currently learning)
 
 Other Computer Knowledge:
+ 
   -MVC design pattern
+ 
   -SQL and Databases
+  
   -HTML
+ 
   -XAML
+ 
   -Excel, Word, etc.
