@@ -18,22 +18,22 @@ I have learned a number of things in this program, so here's some of them.
 
 Coding Languages:
   
-  *C#
+  >C#
   
-  *Java
+  >Java
  
-  *JavaScript
+  >JavaScript
  
-  *Kotlin and Compose (currently learning)
+  >Kotlin and Compose (currently learning)
 
 Other Computer Knowledge:
  
-  *MVC design pattern
+  >MVC design pattern
  
-  *SQL and Databases
+  >SQL and Databases
   
-  *HTML
+  >HTML
  
-  *XAML
+  >XAML
  
-  *Excel, Word, etc.
+  >Excel, Word, etc.
