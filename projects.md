@@ -11,7 +11,7 @@ For our Programming 3 project, we had to create a simple quiz application using 
 
 [Programming 3 Project](https://github.com/RobertCristianNeacsu/Programming3_Project/tree/main)
 
-![Prog3Project](https://github.com/RobertCristianNeacsu/RobertCristianNeacsu.Github.io/blob/main/Programming3Project.PNG)
+![Prog3Project](https://github.com/RobertCristianNeacsu/RobertCristianNeacsu.Github.io/blob/main/docs/assets/images/Programming3Project.PNG)
 
 
 # Application Development Project: Budget Application
