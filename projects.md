@@ -16,7 +16,7 @@ For our Programming 3 project, we had to create a simple quiz application using 
 
 # Application Development Project: Budget Application
 
-Throughout the majority of our first Application Development class, we worked in groups on a budget application. We had numerous sprints with many different requirements for this project. The app works by either creating or loading an existing database from a file and adding or modifying the data thanks to the app.
+Throughout the majority of our first Application Development class, we worked in groups on a budget application. We had numerous sprints with many different requirements for this project. The app works by either creating or loading an existing database from a file and adding or modifying the data.
 
 [Application Development Project](https://github.com/RobertCristianNeacsu/AppDev1_Project/tree/main)
 
