@@ -17,3 +17,5 @@ For our Programming 3 project, we had to create a simple quiz application using 
 # Application Development Project: Budget Application
 
 [Application Development Project](https://github.com/RobertCristianNeacsu/AppDev1_Project/tree/main)
+
+![AppDevProject](https://github.com/RobertCristianNeacsu/RobertCristianNeacsu.Github.io/assets/78222446/72d2b3bc-c942-40ac-b4d4-979e8834e07b)
