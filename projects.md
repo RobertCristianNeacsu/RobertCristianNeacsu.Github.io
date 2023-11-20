@@ -11,11 +11,11 @@ For our Programming 3 project, we had to create a simple quiz application using 
 
 The format for the text file is as follows:
 
->1. Answer 1
->2. Answer 2
->3. Answer 3
->4. Answer 4
->5. Answer from above 4
+> Answer 1
+> Answer 2
+> Answer 3
+> Answer 4
+> Answer from above 4
 
 This can be repeated as much as the user would like in order to have more questions.
 
